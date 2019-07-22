@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jianfang0236/TestProject/_apis/build/status/KenFang0808.pipelines-java?branchName=master)](https://dev.azure.com/jianfang0236/TestProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
